@@ -239,4 +239,4 @@ def Order_Of_classes():
 
 Classification_probabilities.columns = Order_Of_classes()
 Classification_probabilities_colored = model.predict(prediction_data1)
-#Company 7 is a bank because they have highest days in inventory and gross margins
+
